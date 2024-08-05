@@ -1,3 +1,7 @@
+# Develop a python program to create a text file and ask the user to enter 5-6 lines of text. 
+# Count the number of upper case, lower case and digits in the file. Display the details of the file
+
+
 print("Enter 5-6 lines of text ")
 lines = [input(f"Lines {i+1}") for i in range(5)]
 

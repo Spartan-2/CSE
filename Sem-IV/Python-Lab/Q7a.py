@@ -1,3 +1,6 @@
+# Develop a python program to create two classes called as Stack and Queue. 
+# Provide the necessary data members and methods to display the operations that can be performed on stacks and queues. Test for all type of conditions
+
 class stack:
     top = -1
     def __init__(self):

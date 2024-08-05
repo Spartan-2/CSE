@@ -1,3 +1,9 @@
+# Write  a  python  program  to  utilize  NumPy  and  perform  the  following operations. 
+# Read and display a 2D Array. 
+# Display the array elements in the reverse order. 
+# Display all the elements of principal diagonal elements. 
+# Sort the 2D array in ascending and descending order
+
 import numpy as np
 
 
