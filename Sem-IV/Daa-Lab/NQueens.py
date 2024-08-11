@@ -27,6 +27,7 @@ posDiag = set()
 negDiag = set()
 
 res = []
+
 nQueens(0,n)
 
 print("The number of combinations ",len(res))

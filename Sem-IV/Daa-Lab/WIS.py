@@ -7,10 +7,6 @@ def OPT(n):
         M[n] = max(OPT(n-1),jobs[n-1][2] + OPT(p(n)))
         return M[n]
 
-
-
-
-
 def weightSche(job):
     
     sorted(job,key = lambda x:x[1])
